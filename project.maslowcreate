@@ -15,7 +15,7 @@
         },
         {
             "name": "height",
-            "ioValue": 1
+            "ioValue": 10
         }
     ],
     "topLevel": true,
@@ -37,34 +37,21 @@
             "ioValues": []
         },
         {
+            "atomType": "GitHubMolecule",
+            "name": "pastepastepastepaste",
+            "x": 0.36502871729419273,
+            "y": 0.427027027027027,
+            "uniqueID": 887998,
+            "projectID": "257982224",
+            "ioValues": []
+        },
+        {
             "atomType": "Input",
             "name": "height",
             "x": 0.013333333333333334,
             "y": 0.6324324324324324,
             "uniqueID": 756571,
             "ioValues": []
-        },
-        {
-            "atomType": "GitHubMolecule",
-            "name": "pastepastepastepaste",
-            "x": 0.5166919575113809,
-            "y": 0.4891891891891892,
-            "uniqueID": 887998,
-            "projectID": "257982224",
-            "ioValues": [
-                {
-                    "name": "Height",
-                    "ioValue": 1
-                },
-                {
-                    "name": "Width",
-                    "ioValue": 10
-                },
-                {
-                    "name": "length",
-                    "ioValue": 10
-                }
-            ]
         },
         {
             "atomType": "Output",
@@ -74,35 +61,7 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "length",
-            "ap2Primary": false,
-            "ap1ID": 723559,
-            "ap2ID": 887998
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Width",
-            "ap2Primary": false,
-            "ap1ID": 212093,
-            "ap2ID": 887998
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Height",
-            "ap2Primary": false,
-            "ap1ID": 756571,
-            "ap2ID": 887998
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 887998
-        }
-    ],
+    "allConnectors": [],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
     "circleSegmentSize": 2
