@@ -7,15 +7,15 @@
     "ioValues": [
         {
             "name": "length",
-            "ioValue": 10
+            "ioValue": 1
         },
         {
             "name": "width",
-            "ioValue": 10
+            "ioValue": 1
         },
         {
             "name": "height",
-            "ioValue": 10
+            "ioValue": 5
         }
     ],
     "topLevel": true,
@@ -39,22 +39,22 @@
         {
             "atomType": "GitHubMolecule",
             "name": "ultimate test",
-            "x": 0.35800893426930436,
-            "y": 0.41621621621621624,
+            "x": 0.35354179961710275,
+            "y": 0.43513513513513513,
             "uniqueID": 534791,
             "projectID": "280498772",
             "ioValues": [
                 {
                     "name": "length",
-                    "ioValue": 10
+                    "ioValue": 1
                 },
                 {
                     "name": "width",
-                    "ioValue": 10
+                    "ioValue": 1
                 },
                 {
                     "name": "height",
-                    "ioValue": 10
+                    "ioValue": 5
                 }
             ]
         },
