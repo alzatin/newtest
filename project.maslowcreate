@@ -7,15 +7,15 @@
     "ioValues": [
         {
             "name": "length",
-            "ioValue": 4
+            "ioValue": 10
         },
         {
             "name": "width",
-            "ioValue": 3
+            "ioValue": 10
         },
         {
             "name": "height",
-            "ioValue": 5
+            "ioValue": 1
         }
     ],
     "topLevel": true,
@@ -54,15 +54,15 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 5
+                    "ioValue": 1
                 },
                 {
                     "name": "Width",
-                    "ioValue": 3
+                    "ioValue": 10
                 },
                 {
                     "name": "length",
-                    "ioValue": 4
+                    "ioValue": 10
                 }
             ]
         },
